@@ -1,1 +1,2 @@
 Bank-Management uses two interfaces AccountOperation that defines operation related to account like account creation and removal and CustomerOperation that defines operations related to customes like deposit , withdraw and checkBalance.
+Further Account class implements AccountOperation interface and Customer class implements CustomerOperation interface , where the functions are overridden by the classes. 
